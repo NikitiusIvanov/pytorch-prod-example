@@ -1,4 +1,4 @@
-# Example of inference service pytorch model that deployed on google-cloud-run
+# Example of inference service for an pytorch model
 
 In this project we use:
 
