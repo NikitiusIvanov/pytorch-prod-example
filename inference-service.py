@@ -12,7 +12,7 @@ with open('inference_config.json', 'r') as f:
     inference_config = json.load(f)
 
 # inference_config = {
-#     "best_model_path": "./models_2024-07-04/model_epoch_14.pth",
+#     "best_model_path": "model_epoch_14.pth",
 #     "forecasting_horizon_days": 7,
 #     "window_size_hours": 336,
 #     "hidden_size": 256,
